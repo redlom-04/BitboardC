@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/BitboardC.dir/main.c.o CMakeFiles/BitboardC.dir/bitboard.c.o -o BitboardC 

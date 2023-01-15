@@ -1,0 +1,3 @@
+/home/archi/Desktop/BitboardC/CMakeFiles/BitboardC.dir
+/home/archi/Desktop/BitboardC/CMakeFiles/edit_cache.dir
+/home/archi/Desktop/BitboardC/CMakeFiles/rebuild_cache.dir
